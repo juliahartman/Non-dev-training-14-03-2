@@ -1,4 +1,4 @@
-# GitHub Fundamentals
+# GitHub for Non-developers
 
 Repository for the `GitHub Fundamentals` training.
 
